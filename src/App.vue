@@ -34,7 +34,7 @@ export default class App extends Vue {
   max-width: 500px;
   height: 100vh;
   margin: 0 auto;
-  padding: 10px;
+  padding: 20px;
   background-color: #f9f4ef;
   letter-spacing: 2px;
   font-family: 'Lato', sans-serif;
